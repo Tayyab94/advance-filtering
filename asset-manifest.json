@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://Tayyab94.github.io/advance-filtering%3E/static/css/main.3e69e93d.css",
+    "main.js": "/%3Chttps://Tayyab94.github.io/advance-filtering%3E/static/js/main.5192ab65.js",
+    "index.html": "/%3Chttps://Tayyab94.github.io/advance-filtering%3E/index.html",
+    "main.3e69e93d.css.map": "/%3Chttps://Tayyab94.github.io/advance-filtering%3E/static/css/main.3e69e93d.css.map",
+    "main.5192ab65.js.map": "/%3Chttps://Tayyab94.github.io/advance-filtering%3E/static/js/main.5192ab65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e69e93d.css",
+    "static/js/main.5192ab65.js"
+  ]
+}
